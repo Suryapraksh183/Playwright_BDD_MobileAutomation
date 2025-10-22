@@ -1,0 +1,31 @@
+{
+  "cucumber.features": [
+    "features/**/*.feature"
+  ],
+  "cucumber.glue": [
+    "src/step-definitions/**/*.ts",
+    "src/support/**/*.ts"
+  ],
+  "cucumber.steps": [
+    "src/step-definitions/**/*.ts"
+  ],
+  "cucumberautocomplete.steps": [
+    "src/step-definitions/**/*.ts"
+  ],
+  "cucumberautocomplete.syncfeatures": "features/**/*.feature",
+  "cucumberautocomplete.strictGherkinCompletion": true,
+  "cucumberautocomplete.strictGherkinValidation": true,
+  "cucumberautocomplete.smartSnippets": true,
+  "cucumberautocomplete.stepsInvariants": true,
+  "typescript.preferences.includePackageJsonAutoImports": "auto",
+  "typescript.suggest.autoImports": true,
+  "typescript.preferences.include.packageJsonAutoImports": "auto",
+  "files.associations": {
+    "*.feature": "cucumber"
+  },
+  "editor.quickSuggestions": {
+    "comments": false,
+    "strings": true,
+    "other": true
+  }
+}
