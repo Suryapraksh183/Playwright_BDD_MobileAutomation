@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "alexkrechik.cucumberautocomplete",
+    "ms-playwright.playwright",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
