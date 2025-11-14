@@ -1,0 +1,1 @@
+{"version":3,"file":"world.js","sourceRoot":"","sources":["../../../src/support/world.ts"],"names":[],"mappings":";;;AACA,kDAA+C;AAa/C,MAAa,WAAW;IAStB;QACE,8CAA8C;IAChD,CAAC;IAED,KAAK,CAAC,qBAAqB;QACzB,IAAI,IAAI,CAAC,IAAI,EAAE,CAAC;YACd,IAAI,CAAC,SAAS,GAAG,IAAI,qBAAS,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;QAC5C,CAAC;IACH,CAAC;CACF;AAlBD,kCAkBC"}
